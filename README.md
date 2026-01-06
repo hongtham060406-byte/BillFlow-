@@ -1,4 +1,4 @@
-\# 💸 BillFlow - Decentralized Invoice Factoring Protocol
+💸 BillFlow - Decentralized Invoice Factoring Protocol
 
 
 
@@ -53,6 +53,7 @@ npx hardhat node
 Phạm Thị Hồng Thắm - Developer
 
 Nguyễn Anh Oanh - Designer
+
 
 
 
