@@ -42,24 +42,17 @@
 
 
 
-\## 📦 Installation
+## 📦 Installation
 
 ```bash
-
-git clone \[https://github.com/](https://github.com/)\OT/BillFlow.git
-
+git clone [https://github.com/hongtham060406-byte/BillFlow.git](https://github.com/hongtham060406-byte/BillFlow.git)
 cd BillFlow
-
 npm install
-
 npx hardhat node
+👥 Team
+Phạm Thị Hồng Thắm - Developer
 
-\## 👥 Team
-
-\* \*\*Phạm Thị Hồng Thắm\*\* - Developer
-
-\* \*\*Nguyễn Anh Oanh\*\* - Designer
-
+Nguyễn Anh Oanh - Designer
 
 
 
