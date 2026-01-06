@@ -18,7 +18,7 @@
 
 \* \*\*Track:\*\* RWA / RealFi
 
-\* \*\*Hackathon:\*\* \[Điền Tên Cuộc Thi]
+\* \*\*Hackathon:\*\* \The Finnovative Hackathon 
 
 
 
@@ -59,6 +59,7 @@ npx hardhat node
 \* \*\*Phạm Thị Hồng Thắm\*\* - Developer
 
 \* \*\*Nguyễn Anh Oanh\*\* - Designer
+
 
 
 
