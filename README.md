@@ -49,7 +49,11 @@ npm install
 npx hardhat node
 👥 Team
 Phạm Thị Hồng Thắm - Developer
+
 Nguyễn Anh Oanh - Designer
+
+Made with ❤️ by Team OT.
+
 
 
 
