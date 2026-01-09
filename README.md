@@ -42,7 +42,7 @@ BillFlow solves the working capital problem for SMEs. Instead of waiting 30-90 d
 
 📦 Installation
 
-bash
+```bash
 git clone [https://github.com/hongtham060406-byte/BillFlow.git](https://github.com/hongtham060406-byte/BillFlow.git)
 cd BillFlow
 npm install
@@ -55,6 +55,7 @@ Phạm Thị Hồng Thắm - Developer
 Nguyễn Anh Oanh - Designer
 
 Made with ❤️ by Team OT.
+
 
 
 
