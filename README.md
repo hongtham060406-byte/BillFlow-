@@ -79,8 +79,6 @@ BillFlow applies a **risk-tiered lending model** instead of a fixed Loan-to-Valu
   - LTV: **below 50%**  
   - Fee: **3%**
 
-> The demo version of BillFlow currently applies **Tier B** to ensure safety and simplicity during the MVP phase.
-
 ---
 
 ## 🔹 Risk Management & Default Handling
@@ -160,6 +158,7 @@ Phạm Thị Hồng Thắm - Developer
 Nguyễn Anh Oanh - Designer
 
 Made with ❤️ by Team OT.
+
 
 
 
