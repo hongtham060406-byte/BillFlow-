@@ -27,17 +27,31 @@ BillFlow transforms traditional invoices into on-chain financial assets.
 **Result:** Convert illiquid invoices into cash within minutes instead of weeks.
 
 ---
+## 🔹 Key Features
+
+- **🛡️ AI Credit Scoring:** Automated risk assessment system classifying invoices into Tiers (A, B, C) based on business data.
+- **💹 Investor Marketplace:** A secondary market allowing investors (Liquidity Providers) to fund specific invoices and earn yield.
+- **⚡ Instant Liquidity:** Smart contracts disburse loans in seconds, not weeks.
+- **💰 Transparent Fee Model:** No hidden interest spreads; we charge a transparent 1-3% processing fee.
+
+---
 
 ## 🔹 How It Works
 
-1. **Mint**  
-   SMEs upload invoice information and mint an Invoice NFT.
+1. **Mint:** SME uploads invoice data -> System tokenizes it into an NFT.
+2. **Score:** System analyzes data and assigns a Risk Tier (e.g., Tier B: 70% LTV).
+3. **Borrow:** SME receives instant liquidity (USDT) via Smart Contract.
+4. **Invest (New):** Investors browse the Marketplace, fund invoices, and earn APY.
 
-2. **Lock**  
-   The Invoice NFT is locked as collateral in the lending pool.
+---
 
-3. **Cash-out**  
-   Smart contracts automatically disburse USDT to the SME wallet based on the invoice risk tier.
+## 🔹 Revenue Model (Business Sustainability)
+
+BillFlow operates on a **Transaction-Based Fee Model** to ensure transparency:
+
+1. **Processing Fee:** 1% - 3% of the invoice value (deducted upon loan disbursement).
+2. **Minting Fee:** Small fixed fee for NFT creation.
+3. **Liquidation Penalty:** 5% fee applied only in default scenarios.
 
 ---
 
@@ -158,6 +172,7 @@ Phạm Thị Hồng Thắm - Developer
 Nguyễn Anh Oanh - Designer
 
 Made with ❤️ by Team OT.
+
 
 
 
